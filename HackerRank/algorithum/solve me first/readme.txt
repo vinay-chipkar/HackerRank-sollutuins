@@ -1,0 +1,2 @@
+This algorithum logic basically works on addition of two integers. The first we need to do is to input the integers and store them and then we need to define the function using 'def'.
+Then the defined function is stored ina format and after that we need to print the output by using 'return' functun calling arthmatic operation using '+'.
